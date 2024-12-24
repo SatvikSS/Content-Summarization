@@ -1,6 +1,15 @@
 # Content Summarization Tool
 ## Overview
 This Content Summarization Tool simplifies the process of extracting valuable insights from text-based documents. By employing advanced techniques like TF-IDF (Term Frequency-Inverse Document Frequency) and sentence ranking, the tool effectively identifies important keywords and creates concise summaries of Word documents. It also features robust preprocessing to ensure accurate results.
+
+## Dataset Description
+This project uses a sample dataset collected from Wikipedia, containing information about the Taj Mahal. 
+
+### Dataset Details
+
+Source: Wikipedia (https://en.wikipedia.org/wiki/Taj_Mahal)
+Content: 337 words across 24 sentences
+
 ## Features
 Document Parsing: Reads .docx files to process text content.
 
